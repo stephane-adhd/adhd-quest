@@ -9,12 +9,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192x192/6c47ff/ffffff?text=AQ",
+      "src": "https://raw.githubusercontent.com/stephane-adhd/adhd-quest/main/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://via.placeholder.com/512x512/6c47ff/ffffff?text=AQ",
+      "src": "https://raw.githubusercontent.com/stephane-adhd/adhd-quest/main/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
