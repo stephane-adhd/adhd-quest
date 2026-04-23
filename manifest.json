@@ -1,0 +1,22 @@
+{
+  "name": "ADHD Quest",
+  "short_name": "ADHD Quest",
+  "description": "Transformez votre quotidien en aventure épique",
+  "start_url": "/adhd-quest/",
+  "display": "standalone",
+  "background_color": "#6c47ff",
+  "theme_color": "#6c47ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/6c47ff/ffffff?text=AQ",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/6c47ff/ffffff?text=AQ",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
